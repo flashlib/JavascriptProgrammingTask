@@ -22,6 +22,7 @@ Javascript编程任务
    - 开发一个在itunes查询Jack Johnson音乐作品的WebApp；
    - 为了限制访问时间，仅需要返回30个音乐作品；
    - 需要有导航栏和工具栏；
+   - 接口文档可以[参考此处](http://www.apple.com/itunes/affiliates/resources/documentation/itunes-store-web-service-search-api.html);
 4. 更新Readme文件，在末尾增加实现说明一节；
 5. Commit你的代码，然后push到你的仓库；
 6. 给我们发一个pull请求，我们会review你的代码，并与你联系。
